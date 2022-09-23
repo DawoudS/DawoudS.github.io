@@ -1,0 +1,49 @@
+!DOCTYPE html
+html lang=en
+
+head
+    meta charset=UTF-8
+    meta http-equiv=X-UA-Compatible content=IE=edge
+    meta name=viewport content=width=device-width, initial-scale=1.0
+    meta name=author content=Dawoud Sattar
+    link rel=icon href=..html5.png type=imagex-icon
+    titleMy First Web Page title
+    link rel=stylesheet href=.main.css type=textcss
+head
+
+body
+    h1Hello worldh1
+
+    hr
+
+    h2I'm ready to learn HMTLh2
+    pThis is my first webpagep
+
+    h3My Daily Scheduleh3
+    pLet me tell you how
+        br&nbsp;&nbsp;&nbsp;...I learn more about web dev. 
+        br&nbsp;&nbsp;&nbsp;...I plan out my schedule.
+        br&nbsp;&nbsp;&nbsp;...I use resources from abbr title=Mozilla Developer NetworkMDNabbr
+    p
+
+    hr
+
+    h2I Am Also Planning a Vacationh2
+    pI've been working hard and emneed a getawayem.p
+    pI live in abbr title=ManchesterMCRabbr so I want to visit a beachp
+
+    h3Places I'd Like to Visith3
+    pI have heard good things about Japan.p
+    pI've heard good things about going herep
+    address1 Chome Marunouchi,br Chiyoda City,br Tokyo 100-0005,br Japanaddress
+
+    !--TODO Add more places--
+
+    h3Places I'd Want to Avoidh3
+    pAnywhere that is cold. strongNo way!strongp
+
+    hr
+    &lt;&lt;&lt; &copy; Dawoud Sattar &gt;&gt;&gt;
+body
+
+html
